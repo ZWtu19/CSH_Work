@@ -37,7 +37,7 @@
 #### 四、结果
 * 图像分类结果存储至 _/root/cai/pics_classfied/_下
 * 子文件夹
-[子文件夹]('res/classfied_1.png')
+![子文件夹]('res/classfied_1.png')
 
 * 服装图像
-[服装图像]('res/classfied_2.png')
+![服装图像]('res/classfied_2.png')
